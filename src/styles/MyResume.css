@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300&family=Poppins:wght@300&display=swap');
+
+.container{
+
+    margin-top: 3.8rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1.5px 1.5px lightgrey;
+    border-radius: 0.3rem;
+    
+}
+
+.container h3{
+    font-family:'Poppins', sans-serif;;
+  
+}
+
+.Personal-data p{
+    font-size: 30px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.Personal-data img{
+    border-radius: 0.3rem;
+}
+.Experiences h3{
+    margin-top: -2rem;
+}
+
+.profile-foto{
+    width: 9.5rem;
+    height: 7.5rem;
+}

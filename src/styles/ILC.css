@@ -1,0 +1,14 @@
+
+
+.ilc{
+    background-color: #008080;
+    font-size: 30px;
+    margin: 1.5rem 0rem 1.5rem 0rem;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+
+.ilc button{
+    margin: 2rem 12rem;
+    border-radius: 0.3rem;
+}

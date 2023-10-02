@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+.training{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5.5rem;
+    margin-right: 5.5rem;
+    margin-top: 10rem;
+    border-radius: 0.8rem;
+   
+}
+
+.training p{
+    font-size: 19px;
+}
+
+.training h2{
+    margin: 10px 40px 20px;
+}
+.Job-experieces p{
+    font-size: 20px;
+
+}
+.profil-foto{
+    width: 9.5rem;
+    height: 10.5rem;
+    border-radius: 0.3rem;
+}
+
+.project-description{
+    margin: 2rem 2rem 2rem 2rem;
+}
+
+.project-description p{
+    font-size: 20px;
+}
+
+.col-profile{
+    
+}
+    .container p{
+ 
+    color: rgb(0, 0, 0);
+}
+.container h5{
+    color: rgb(0, 0, 0);
+}
+
+
