@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\![portfolio-capE](https://github.com/kdway/Porfolio/assets/96395749/c37435ca-2611-41f7-abb2-92ccc69b59d5)
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
